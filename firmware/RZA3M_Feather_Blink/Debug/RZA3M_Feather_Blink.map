@@ -1,0 +1,1563 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+                              /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o (atexit)
+/home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-errno.o)
+                              ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o (__errno)
+/home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+                              /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o (exit)
+/home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+                              /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o (__libc_fini_array)
+/home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-impure.o)
+                              /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+                              /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o (__libc_init_array)
+/home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memcpy.o)
+                              ./src/hal_entry.o (memcpy)
+/home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memset.o)
+                              /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o (memset)
+/home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+                              /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o) (__register_exitproc)
+/home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+                              /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o) (__call_exitprocs)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crti.o
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crti.o
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crti.o
+ .text          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .data.__dso_handle
+                0x0000000000000000        0x8 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .text          0x0000000000000000       0x70 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o
+ .debug_line    0x0000000000000000       0xa5 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o
+ .debug_info    0x0000000000000000       0x2e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o
+ .debug_abbrev  0x0000000000000000       0x14 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o
+ .debug_aranges
+                0x0000000000000000       0x30 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o
+ .debug_str     0x0000000000000000       0xd6 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o
+ .text          0x0000000000000000        0x0 ./src/hal_entry.o
+ .data          0x0000000000000000        0x0 ./src/hal_entry.o
+ .bss           0x0000000000000000        0x0 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer9uart_readEPhPt
+                0x0000000000000000       0x98 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer9fill_buffEv
+                0x0000000000000000       0xd0 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer9availableEv
+                0x0000000000000000       0x24 ./src/hal_entry.o
+ .rodata._ZN24SerialCompatibilityLayer4readEv.str1.8
+                0x0000000000000000       0x29 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer4readEv
+                0x0000000000000000       0x90 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer4peekEv
+                0x0000000000000000       0x28 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer5writeEh
+                0x0000000000000000       0x20 ./src/hal_entry.o
+ .rodata._ZN24SerialCompatibilityLayer10uart_closeEv.str1.8
+                0x0000000000000000       0x2c ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer10uart_closeEv
+                0x0000000000000000       0x60 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer5printEPh
+                0x0000000000000000       0x30 ./src/hal_entry.o
+ .rodata._ZN24SerialCompatibilityLayer5printEx.str1.8
+                0x0000000000000000        0xa ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer5printEx
+                0x0000000000000000       0xd8 ./src/hal_entry.o
+ .text._ZN24SerialCompatibilityLayer7printlnEx
+                0x0000000000000000       0x40 ./src/hal_entry.o
+ .text.uart_callback_1
+                0x0000000000000000      0x120 ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_19uart_readEPhPt
+                0x0000000000000000       0x98 ./src/hal_entry.o
+ .rodata._ZN26SerialCompatibilityLayer_19fill_buffEv.str1.8
+                0x0000000000000000       0x2d ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_19fill_buffEv
+                0x0000000000000000       0xd0 ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_19availableEv
+                0x0000000000000000       0x24 ./src/hal_entry.o
+ .rodata._ZN26SerialCompatibilityLayer_14readEv.str1.8
+                0x0000000000000000       0x2b ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_14readEv
+                0x0000000000000000       0x90 ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_14peekEv
+                0x0000000000000000       0x28 ./src/hal_entry.o
+ .rodata._ZN26SerialCompatibilityLayer_110uart_printEPht.str1.8
+                0x0000000000000000       0x45 ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_110uart_printEPht
+                0x0000000000000000       0x98 ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_15writeEh
+                0x0000000000000000       0x20 ./src/hal_entry.o
+ .rodata._ZN26SerialCompatibilityLayer_19uart_initEPj.str1.8
+                0x0000000000000000       0x36 ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_19uart_initEPj
+                0x0000000000000000       0xd8 ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_15beginEj
+                0x0000000000000000       0x1c ./src/hal_entry.o
+ .rodata._ZN26SerialCompatibilityLayer_110uart_closeEv.str1.8
+                0x0000000000000000       0x2e ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_110uart_closeEv
+                0x0000000000000000       0x60 ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_15printEPh
+                0x0000000000000000       0x30 ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_17printlnEPh
+                0x0000000000000000       0x60 ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_15printEx
+                0x0000000000000000       0xd8 ./src/hal_entry.o
+ .text._ZN26SerialCompatibilityLayer_17printlnEx
+                0x0000000000000000       0x40 ./src/hal_entry.o
+ .bss._ZL14g_uart_event_1
+                0x0000000000000000        0x1 ./src/hal_entry.o
+ .bss._ZL20g_receive_complete_1
+                0x0000000000000000        0x4 ./src/hal_entry.o
+ .bss._ZL21g_out_of_band_index_1
+                0x0000000000000000        0x2 ./src/hal_entry.o
+ .bss._ZL21g_transfer_complete_1
+                0x0000000000000000        0x4 ./src/hal_entry.o
+ .bss.g_dest_0  0x0000000000000000      0x200 ./src/hal_entry.o
+ .bss.g_dest_1  0x0000000000000000      0x200 ./src/hal_entry.o
+ .bss.g_out_of_band_received_1
+                0x0000000000000000      0x200 ./src/hal_entry.o
+ .text          0x0000000000000000        0x0 ./src/mmu_page_table.o
+ .data          0x0000000000000000        0x0 ./src/mmu_page_table.o
+ .bss           0x0000000000000000        0x0 ./src/mmu_page_table.o
+ .text.R_MMU_VAtoPA
+                0x0000000000000000       0x58 ./src/mmu_page_table.o
+ .text.R_MMU_PAtoVA
+                0x0000000000000000       0x54 ./src/mmu_page_table.o
+ .text          0x0000000000000000        0x0 ./src/sections.o
+ .data          0x0000000000000000        0x0 ./src/sections.o
+ .bss           0x0000000000000000        0x0 ./src/sections.o
+ .text          0x0000000000000000        0x0 ./src/syscalls.o
+ .data          0x0000000000000000        0x0 ./src/syscalls.o
+ .bss           0x0000000000000000        0x0 ./src/syscalls.o
+ .text._write   0x0000000000000000        0x8 ./src/syscalls.o
+ .text._read    0x0000000000000000        0x8 ./src/syscalls.o
+ .text._close   0x0000000000000000        0x8 ./src/syscalls.o
+ .text._fstat   0x0000000000000000        0x8 ./src/syscalls.o
+ .text._lseek   0x0000000000000000        0x8 ./src/syscalls.o
+ .text._isatty  0x0000000000000000        0x8 ./src/syscalls.o
+ .text._getpid  0x0000000000000000        0x8 ./src/syscalls.o
+ .text._kill    0x0000000000000000        0x8 ./src/syscalls.o
+ .text._open    0x0000000000000000        0x8 ./src/syscalls.o
+ .text._exit    0x0000000000000000        0x4 ./src/syscalls.o
+ .debug_info    0x0000000000000000      0x318 ./src/syscalls.o
+ .debug_abbrev  0x0000000000000000       0xf6 ./src/syscalls.o
+ .debug_loc     0x0000000000000000      0x20d ./src/syscalls.o
+ .debug_aranges
+                0x0000000000000000       0xc0 ./src/syscalls.o
+ .debug_ranges  0x0000000000000000       0xb0 ./src/syscalls.o
+ .debug_line    0x0000000000000000      0x17a ./src/syscalls.o
+ .debug_str     0x0000000000000000      0x203 ./src/syscalls.o
+ .comment       0x0000000000000000       0x5e ./src/syscalls.o
+ .debug_frame   0x0000000000000000      0x100 ./src/syscalls.o
+ .text          0x0000000000000000        0x0 ./rza_gen/common_data.o
+ .data          0x0000000000000000        0x0 ./rza_gen/common_data.o
+ .bss           0x0000000000000000        0x0 ./rza_gen/common_data.o
+ .text.g_common_init
+                0x0000000000000000        0x4 ./rza_gen/common_data.o
+ .rodata.g_ioport
+                0x0000000000000000       0x18 ./rza_gen/common_data.o
+ .rodata.g_mmu  0x0000000000000000       0x18 ./rza_gen/common_data.o
+ .text          0x0000000000000000        0x0 ./rza_gen/hal_data.o
+ .data          0x0000000000000000        0x0 ./rza_gen/hal_data.o
+ .bss           0x0000000000000000        0x0 ./rza_gen/hal_data.o
+ .text.g_hal_init
+                0x0000000000000000       0x14 ./rza_gen/hal_data.o
+ .bss.g_uart1_ctrl
+                0x0000000000000000       0x58 ./rza_gen/hal_data.o
+ .data.g_uart1_baud_setting
+                0x0000000000000000        0x3 ./rza_gen/hal_data.o
+ .rodata.g_uart0
+                0x0000000000000000       0x18 ./rza_gen/hal_data.o
+ .rodata.g_uart1
+                0x0000000000000000       0x18 ./rza_gen/hal_data.o
+ .rodata.g_uart1_cfg
+                0x0000000000000000       0x58 ./rza_gen/hal_data.o
+ .rodata.g_uart1_cfg_extend
+                0x0000000000000000       0x38 ./rza_gen/hal_data.o
+ .text          0x0000000000000000        0x0 ./rza_gen/main.o
+ .data          0x0000000000000000        0x0 ./rza_gen/main.o
+ .bss           0x0000000000000000        0x0 ./rza_gen/main.o
+ .text          0x0000000000000000        0x0 ./rza_gen/pin_data.o
+ .data          0x0000000000000000        0x0 ./rza_gen/pin_data.o
+ .bss           0x0000000000000000        0x0 ./rza_gen/pin_data.o
+ .text          0x0000000000000000        0x0 ./rza_gen/vector_data.o
+ .data          0x0000000000000000        0x0 ./rza_gen/vector_data.o
+ .bss           0x0000000000000000        0x0 ./rza_gen/vector_data.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_Read
+                0x0000000000000000       0x10 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_CallbackSet
+                0x0000000000000000       0x14 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_InfoGet
+                0x0000000000000000       0x14 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_Abort
+                0x0000000000000000       0xec ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_ReadStop
+                0x0000000000000000       0xa0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_Close
+                0x0000000000000000       0xfc ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .rodata.g_uart_on_scif
+                0x0000000000000000       0x48 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/r_mmu/r_mmu.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/r_mmu/r_mmu.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/r_mmu/r_mmu.o
+ .text.R_MMU_Close
+                0x0000000000000000        0x8 ./rza/fsp/src/r_mmu/r_mmu.o
+ .text.R_MMU_AllocateTable
+                0x0000000000000000        0x8 ./rza/fsp/src/r_mmu/r_mmu.o
+ .rodata.g_mmu_on_mmu
+                0x0000000000000000       0x30 ./rza/fsp/src/r_mmu/r_mmu.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/r_ioport/r_ioport.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/r_ioport/r_ioport.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_Close
+                0x0000000000000000        0xc ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinRead
+                0x0000000000000000       0x28 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortRead
+                0x0000000000000000       0x20 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortEventInputRead
+                0x0000000000000000        0x8 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinEventInputRead
+                0x0000000000000000        0x8 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortEventOutputWrite
+                0x0000000000000000        0x8 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinEventOutputWrite
+                0x0000000000000000        0x8 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortWrite
+                0x0000000000000000       0x34 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinWrite
+                0x0000000000000000       0x3c ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PortDirectionSet
+                0x0000000000000000       0x38 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinsCfg
+                0x0000000000000000       0x1c ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_PinCfg
+                0x0000000000000000       0xe8 ./rza/fsp/src/r_ioport/r_ioport.o
+ .rodata.g_ioport_on_ioport
+                0x0000000000000000       0x68 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/rza3m/bsp_irq_sense.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/rza3m/bsp_irq_sense.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/rza3m/bsp_irq_sense.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_clock_convert_divider_to_clock
+                0x0000000000000000       0x28 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_clock_convert_selector_to_clock
+                0x0000000000000000       0x28 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_clock_check_pll
+                0x0000000000000000       0xe8 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_clock_selector_set
+                0x0000000000000000      0x220 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.bsp_prv_clock_divider_set
+                0x0000000000000000      0x158 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.R_FSP_SystemClockHzSet
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.R_BSP_ClockSelectorSet
+                0x0000000000000000       0x4c ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text.R_BSP_ClockDividerSet
+                0x0000000000000000       0x4c ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .rodata.bsp_prv_clock_convert_divider_to_clock_tbl.0
+                0x0000000000000000       0x2c ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .rodata.bsp_prv_clock_convert_selector_to_clock_tbl.1
+                0x0000000000000000       0x1c ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .text.R_FSP_VersionGet
+                0x0000000000000000       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .version       0x0000000000000000       0x4c ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_delay_asm.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_delay_asm.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_delay_asm.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_Disable
+                0x0000000000000000       0x2c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_GetSpiPriority
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_GetSpiRoute
+                0x0000000000000000       0x38 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_GetSpiSense
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_SetSpiPending
+                0x0000000000000000       0x1c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_GetSpiPending
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_SgiPpiEnable
+                0x0000000000000000       0x2c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_SgiPpiDisable
+                0x0000000000000000       0x2c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_SetSgiPpiPriority
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_GetSgiPpiPriority
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_SetSgiPpiPending
+                0x0000000000000000       0x18 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_GetSgiPpiPending
+                0x0000000000000000       0x28 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICR_SetSgiPpiSecurity
+                0x0000000000000000       0x60 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .text.R_BSP_GroupIrqWrite
+                0x0000000000000000        0x8 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_info    0x0000000000000000      0x7f5 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_abbrev  0x0000000000000000       0xd2 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_loc     0x0000000000000000       0x3d ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_aranges
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_ranges  0x0000000000000000       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_line    0x0000000000000000      0x139 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_str     0x0000000000000000     0x1b2f ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .comment       0x0000000000000000       0x5e ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .debug_frame   0x0000000000000000       0x28 ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_info    0x0000000000000000       0x6b ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_abbrev  0x0000000000000000       0x26 ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_line    0x0000000000000000       0x1d ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .debug_str     0x0000000000000000      0x1ac ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .comment       0x0000000000000000       0x5e ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_info    0x0000000000000000       0x6b ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_abbrev  0x0000000000000000       0x26 ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_line    0x0000000000000000       0x1d ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .debug_str     0x0000000000000000      0x1b4 ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .comment       0x0000000000000000       0x5e ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .text._sbrk    0x0000000000000000       0xa0 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .bss.current_heap_end.0
+                0x0000000000000000        0x8 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_info    0x0000000000000000      0x14f ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_abbrev  0x0000000000000000       0xcc ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_loc     0x0000000000000000      0x173 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_aranges
+                0x0000000000000000       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_ranges  0x0000000000000000       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_line    0x0000000000000000      0x22d ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_str     0x0000000000000000      0x236 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .comment       0x0000000000000000       0x5e ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .debug_frame   0x0000000000000000       0x38 ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_info    0x0000000000000000       0x6b ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_abbrev  0x0000000000000000       0x26 ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_line    0x0000000000000000       0x1d ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .debug_str     0x0000000000000000      0x1af ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .comment       0x0000000000000000       0x5e ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .text.__disable_irq
+                0x0000000000000000        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .text.__enable_irq
+                0x0000000000000000        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .text.__disable_fiq
+                0x0000000000000000        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .text.__disable_all_exception
+                0x0000000000000000        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .text.R_BSP_WarmStart
+                0x0000000000000000        0x4 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .text          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .data          0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .bss           0x0000000000000000        0x0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .text          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+ .text.atexit   0x0000000000000000       0x14 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+ .debug_info    0x0000000000000000      0x110 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000000000       0xb7 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+ .debug_loc     0x0000000000000000       0x52 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+ .debug_ranges  0x0000000000000000       0x20 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+ .debug_line    0x0000000000000000      0x102 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+ .debug_str     0x0000000000000000      0x219 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+ .comment       0x0000000000000000       0x5e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000000       0x28 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-errno.o)
+ .debug_info    0x0000000000000000      0x924 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-errno.o)
+ .debug_abbrev  0x0000000000000000      0x1cd /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-errno.o)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-errno.o)
+ .debug_ranges  0x0000000000000000       0x20 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-errno.o)
+ .debug_line    0x0000000000000000      0x180 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-errno.o)
+ .debug_str     0x0000000000000000      0x59f /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-errno.o)
+ .comment       0x0000000000000000       0x5e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x28 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x34 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+ .debug_info    0x0000000000000000      0x981 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000000      0x21b /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+ .debug_loc     0x0000000000000000       0x3a /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+ .debug_ranges  0x0000000000000000       0x20 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+ .debug_line    0x0000000000000000      0x20e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+ .debug_str     0x0000000000000000      0x5c0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x5e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x38 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x0000000000000000       0x44 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .rodata.cst8   0x0000000000000000       0x10 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .debug_info    0x0000000000000000      0x10b /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .debug_abbrev  0x0000000000000000       0xcf /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .debug_loc     0x0000000000000000       0x76 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .debug_ranges  0x0000000000000000       0x20 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .debug_line    0x0000000000000000      0x146 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .debug_str     0x0000000000000000      0x1fa /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .comment       0x0000000000000000       0x5e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000000       0x40 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x8 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000      0x748 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x8 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-impure.o)
+ .debug_info    0x0000000000000000      0x93a /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000000      0x1c7 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-impure.o)
+ .debug_line    0x0000000000000000      0x157 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-impure.o)
+ .debug_str     0x0000000000000000      0x5b7 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x5e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x0000000000000000       0x8c /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .rodata.cst8   0x0000000000000000       0x20 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .debug_info    0x0000000000000000      0x123 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000000000       0xcc /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .debug_loc     0x0000000000000000       0xf8 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .debug_ranges  0x0000000000000000       0x20 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .debug_line    0x0000000000000000      0x18f /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .debug_str     0x0000000000000000      0x224 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .comment       0x0000000000000000       0x5e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x40 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-init.o)
+ .text          0x0000000000000000      0x16c /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memcpy.o)
+ .debug_line    0x0000000000000000       0xf1 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memcpy.o)
+ .debug_info    0x0000000000000000       0x2e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000000000       0x14 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memcpy.o)
+ .debug_str     0x0000000000000000       0xee /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x0000000000000000       0xa0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000000000      0x9ba /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000000000      0x24e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000000000      0x17a /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+ .debug_ranges  0x0000000000000000       0x20 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000000000      0x223 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+ .debug_str     0x0000000000000000      0x5f1 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+ .comment       0x0000000000000000       0x5e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000000       0x28 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000      0x10c /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000000000000000      0xa06 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x0000000000000000      0x257 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+ .debug_loc     0x0000000000000000      0x301 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x0000000000000000       0x70 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000000000      0x284 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+ .debug_str     0x0000000000000000      0x5ea /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000000       0x5e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000000       0x70 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtend.o
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtend.o
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtend.o
+ .text          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtn.o
+ .data          0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtn.o
+ .bss           0x0000000000000000        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtn.o
+ .init          0x0000000000000000       0x1c /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtn.o
+ .fini          0x0000000000000000       0x1c /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SRAM_MMU         0x000000000001e000 0x0000000000005000 rw
+SRAM             0x0000000000023000 0x000000000000d000 xrw
+HEADER_REGION    0x0000000020020000 0x0000000000000200 xr
+ENTRY_S          0x0000000020020200 0x0000000000000e00 xr
+CODE_S           0x0000000020021000 0x00000000001ff000 xr
+CACHED_RAM_S     0x00000000401fffe0 0x0000000007e00020 xrw
+UNCACHED_RAM_S   0x0000000080000020 0x0000000007ffffe0 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crti.o
+LOAD /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+LOAD /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/crt0.o
+LOAD ./src/hal_entry.o
+LOAD ./src/mmu_page_table.o
+LOAD ./src/sections.o
+LOAD ./src/syscalls.o
+LOAD ./rza_gen/common_data.o
+LOAD ./rza_gen/hal_data.o
+LOAD ./rza_gen/main.o
+LOAD ./rza_gen/pin_data.o
+LOAD ./rza_gen/vector_data.o
+LOAD ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+LOAD ./rza/fsp/src/r_mmu/r_mmu.o
+LOAD ./rza/fsp/src/r_ioport/r_ioport.o
+LOAD ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+LOAD ./rza/fsp/src/bsp/mcu/rza3m/bsp_irq_sense.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_delay_asm.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_group_irq.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_guard.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_rom_registers.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_sbrk.o
+LOAD ./rza/fsp/src/bsp/mcu/all/bsp_security.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+LOAD ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+START GROUP
+END GROUP
+LOAD /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libstdc++.a
+LOAD /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libm.a
+LOAD /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/libgcc.a
+LOAD /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a
+LOAD /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libc.a
+LOAD /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/libgcc.a
+LOAD /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtend.o
+LOAD /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtn.o
+                0x0000000000010000                SRAM_START = 0x10000
+                0x0000000000020000                SRAM_LENGTH = 0x20000
+                0x0000000020000000                FLASH_START = 0x20000000
+                0x0000000010000000                FLASH_LENGTH = 0x10000000
+                0x0000000040000020                DDR_START = 0x40000020
+                0x0000000007ffffe0                DDR_LENGTH = 0x7ffffe0
+                0x000000000000e000                SRAM_RESERVED_LENGTH = 0xe000
+                0x000000000001e000                SRAM_MMU_START = (SRAM_START + SRAM_RESERVED_LENGTH)
+                0x0000000000005000                SRAM_MMU_LENGTH = 0x5000
+                0x0000000000023000                SRAM_CODE_START = (SRAM_MMU_START + SRAM_MMU_LENGTH)
+                0x000000000000d000                SRAM_CODE_LENGTH = ((SRAM_START + SRAM_LENGTH) - SRAM_CODE_START)
+                0x0000000000020000                FLASH_IPL_LENGTH = 0x20000
+                0x0000000020020000                FSP_HEADER_START = (FLASH_START + FLASH_IPL_LENGTH)
+                0x0000000000000200                FSP_HEADER_LENGTH = 0x200
+                0x0000000020020200                ENTRY_S_START = (FSP_HEADER_START + FSP_HEADER_LENGTH)
+                0x0000000000000e00                ENTRY_S_LENGTH = 0xe00
+                0x0000000020021000                CODE_S_START = (ENTRY_S_START + ENTRY_S_LENGTH)
+                0x00000000001ff000                CODE_S_LENGTH = 0x1ff000
+                0x00000000001fffc0                FSP_DDR_OFFSET_A3UL = 0x1fffc0
+                0x00000000001fffe0                FSP_DDR_OFFSET_A3M = 0x1fffe0
+                0x00000000001fffc0                FSP_DDR_OFFSET = FSP_DDR_OFFSET_A3UL
+                0x00000000401fffe0                CACHEDRAM_S_START = (DDR_START + FSP_DDR_OFFSET)
+                0x0000000007e00020                CACHEDRAM_S_LENGTH = (DDR_LENGTH - (CACHEDRAM_S_START - DDR_START))
+                0x0000000040000000                UNCACHED_OFFSET = 0x40000000
+                0x0000000080000020                UNCACHEDRAM_S_START = (UNCACHED_OFFSET + DDR_START)
+                0x0000000007ffffe0                UNCACHEDRAM_S_LENGTH = DDR_LENGTH
+
+.data.sram_mmu  0x000000000001e000     0x5000
+                0x000000000001e000                __ttbr0_base = .
+                0x000000000001e020                . = (. + 0x20)
+ *fill*         0x000000000001e000       0x20 
+                0x000000000001f000                . = ALIGN (0x1000)
+ *fill*         0x000000000001e020      0xfe0 
+                0x000000000001f000                __level2_table_1_base = .
+                0x0000000000020000                . = (. + 0x1000)
+ *fill*         0x000000000001f000     0x1000 
+                0x0000000000020000                __level2_table_2_base = .
+                0x0000000000021000                . = (. + 0x1000)
+ *fill*         0x0000000000020000     0x1000 
+                0x0000000000021000                __level2_table_3_base = .
+                0x0000000000022000                . = (. + 0x1000)
+ *fill*         0x0000000000021000     0x1000 
+                0x0000000000022000                __level2_table_4_base = .
+                0x0000000000023000                . = (. + 0x1000)
+ *fill*         0x0000000000022000     0x1000 
+
+.text.sram      0x0000000000023000      0x9d0 load address 0x0000000020021000
+                0x0000000000023000                __sram_exec_start = .
+                0x0000000020021000                __sram_load_start = (LOADADDR (.text.sram) + (. - ADDR (.text.sram)))
+ *(VECTOR_TABLE)
+ VECTOR_TABLE   0x0000000000023000      0x800 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+                0x0000000000023000                vector_table
+ *(VECTOR_TABLE_FREERTOS)
+                0x0000000000023800                . = ALIGN (0x8)
+ *(IRQ_FIQ_HANDLER)
+ IRQ_FIQ_HANDLER
+                0x0000000000023800       0xf4 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+                0x0000000000023800                fiq_handler
+                0x0000000000023890                irq_handler
+ *(FASTCODE)
+ *fill*         0x00000000000238f4        0x4 
+ FASTCODE       0x00000000000238f8       0x90 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+                0x00000000000238f8                R_BSP_SoftwareDelay
+ FASTCODE.stub  0x0000000000023988       0x28 linker stubs
+ FASTCODE       0x00000000000239c0       0x10 ./rza/fsp/src/bsp/mcu/all/bsp_delay_asm.o
+                0x00000000000239c0                bsp_prv_software_delay_loop
+                0x00000000000239d0                . = ALIGN (0x8)
+                0x00000000200219d0                __sram_load_end = (LOADADDR (.text.sram) + (. - ADDR (.text.sram)))
+
+.text.sram_fastcopy
+                0x00000000000239d0        0x0 load address 0x00000000200219d0
+                0x00000000000239d0                __sram_fastcopy_exec_start = .
+                0x00000000200219d0                __sram_fastcopy_load_start = (LOADADDR (.text.sram_fastcopy) + (. - ADDR (.text.sram_fastcopy)))
+                0x00000000000239d0                . = ALIGN (0x8)
+                0x00000000200219d0                __sram_fastcopy_load_end = (LOADADDR (.text.sram_fastcopy) + (. - ADDR (.text.sram_fastcopy)))
+
+.rodata.header  0x0000000020020000      0x200
+                0x0000000020020000        0x8 QUAD 0x20020800 Start
+                0x0000000020020008        0x8 QUAD 0xffffffffdffdf7ff (0xffffffffffffffff - Start)
+                0x0000000020020010        0x8 QUAD 0x20020200
+                0x0000000020020018        0x8 QUAD 0xffffffffdffdfdff
+                0x0000000020020020        0x8 QUAD 0x0
+                0x0000000020020028        0x8 QUAD 0xffffffffffffffff
+ FILL mask 0x00
+                0x00000000200201e0                . = (. + 0x1b0)
+ *fill*         0x0000000020020030      0x1b0 00
+                0x00000000200201e0        0x8 QUAD 0x4120505346205a52
+                0x00000000200201e8        0x8 QUAD 0x69746163696c7070
+                0x00000000200201f0        0x8 QUAD 0x6e6f
+                0x00000000200201f8        0x8 QUAD 0x0
+
+.text.secure_program_entry
+                0x0000000020020800        0x4
+                0x0000000020020800                _prog_start = .
+ *(PROGRAM_ENTRY)
+ PROGRAM_ENTRY  0x0000000020020800        0x4 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+                0x0000000020020800                Start
+
+.text           0x0000000020021a00     0x403c
+ *(RESET_HANDLER)
+ RESET_HANDLER  0x0000000020021a00      0x114 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                0x0000000020021a00                reset_handler
+                0x0000000020021b80                . = ALIGN (0x80)
+ *fill*         0x0000000020021b14       0x6c 
+ *(INIT_SECTION)
+ INIT_SECTION   0x0000000020021b80      0x210 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+                0x0000000020021b80                INITSCT
+ *(.init)
+ .init          0x0000000020021d90       0x18 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crti.o
+                0x0000000020021d90                _init
+ */sections.o(.rodata .rodata.*)
+ .rodata.BTBL   0x0000000020021da8       0x40 ./src/sections.o
+                0x0000000020021da8                BTBL
+ .rodata.BTBL_F
+                0x0000000020021de8       0x10 ./src/sections.o
+                0x0000000020021de8                BTBL_F
+ .rodata.DTBL   0x0000000020021df8       0x48 ./src/sections.o
+                0x0000000020021df8                DTBL
+ .rodata.DTBL_F
+                0x0000000020021e40       0x30 ./src/sections.o
+                0x0000000020021e40                DTBL_F
+                0x0000000020021e70                . = ALIGN (0x8)
+ *(.text .text.*)
+ .text.deregister_tm_clones
+                0x0000000020021e70       0x30 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .text.register_tm_clones
+                0x0000000020021ea0       0x3c /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ *fill*         0x0000000020021edc        0x4 
+ .text.__do_global_dtors_aux
+                0x0000000020021ee0       0x48 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ *fill*         0x0000000020021f28        0x8 
+ .text.frame_dummy
+                0x0000000020021f30       0x34 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ *fill*         0x0000000020021f64        0x4 
+ .text.R_BSP_PinAccessEnable
+                0x0000000020021f68       0x70 ./src/hal_entry.o
+ .text.uart_callback_0
+                0x0000000020021fd8      0x120 ./src/hal_entry.o
+                0x0000000020021fd8                uart_callback_0
+ .text._ZN24SerialCompatibilityLayerC2Ev
+                0x00000000200220f8       0x34 ./src/hal_entry.o
+                0x00000000200220f8                _ZN24SerialCompatibilityLayerC2Ev
+                0x00000000200220f8                _ZN24SerialCompatibilityLayerC1Ev
+ *fill*         0x000000002002212c        0x4 
+ .text._ZN24SerialCompatibilityLayer10uart_printEPht
+                0x0000000020022130       0x98 ./src/hal_entry.o
+                0x0000000020022130                _ZN24SerialCompatibilityLayer10uart_printEPht
+ .text._ZN24SerialCompatibilityLayer9uart_initEPj
+                0x00000000200221c8       0xd8 ./src/hal_entry.o
+                0x00000000200221c8                _ZN24SerialCompatibilityLayer9uart_initEPj
+ .text._ZN24SerialCompatibilityLayer5beginEj
+                0x00000000200222a0       0x1c ./src/hal_entry.o
+                0x00000000200222a0                _ZN24SerialCompatibilityLayer5beginEj
+ *fill*         0x00000000200222bc        0x4 
+ .text._ZN24SerialCompatibilityLayer7printlnEPh
+                0x00000000200222c0       0x60 ./src/hal_entry.o
+                0x00000000200222c0                _ZN24SerialCompatibilityLayer7printlnEPh
+ .text._ZN26SerialCompatibilityLayer_1C2Ev
+                0x0000000020022320       0x34 ./src/hal_entry.o
+                0x0000000020022320                _ZN26SerialCompatibilityLayer_1C2Ev
+                0x0000000020022320                _ZN26SerialCompatibilityLayer_1C1Ev
+ *fill*         0x0000000020022354        0x4 
+ .text._Z41__static_initialization_and_destruction_0ii
+                0x0000000020022358       0x50 ./src/hal_entry.o
+ .text._Z5delayi
+                0x00000000200223a8       0x18 ./src/hal_entry.o
+                0x00000000200223a8                _Z5delayi
+ .text.hal_entry
+                0x00000000200223c0       0xd8 ./src/hal_entry.o
+                0x00000000200223c0                hal_entry
+ .text.R_BSP_WarmStart
+                0x0000000020022498       0x78 ./src/hal_entry.o
+                0x0000000020022498                R_BSP_WarmStart
+ .text._GLOBAL__sub_I_g_dest_0
+                0x0000000020022510       0x1c ./src/hal_entry.o
+ .text.main     0x000000002002252c       0x18 ./rza_gen/main.o
+                0x000000002002252c                main
+ .text.R_SCIF_UART_Write
+                0x0000000020022544       0x40 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020022544                R_SCIF_UART_Write
+ .text.r_scif_uart_make_rtrg
+                0x0000000020022584       0x38 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.r_scif_uart_make_rftc
+                0x00000000200225bc      0x128 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.r_scif_uart_make_rstrg
+                0x00000000200226e4       0x84 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.r_scif_uart_fifo_cfg
+                0x0000000020022768       0x94 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.r_scif_uart_baud_set
+                0x00000000200227fc       0x74 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.r_scif_uart_config_set
+                0x0000000020022870       0xf4 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_BaudSet
+                0x0000000020022964       0x50 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020022964                R_SCIF_UART_BaudSet
+ .text.r_scif_uart_call_callback
+                0x00000000200229b4       0x78 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.scif_uart_receive_sub
+                0x0000000020022a2c       0xd4 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.r_scif_irq_cfg
+                0x0000000020022b00       0xb0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.r_scif_irqs_cfg
+                0x0000000020022bb0       0x7c ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .text.R_SCIF_UART_Open
+                0x0000000020022c2c      0x2ec ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020022c2c                R_SCIF_UART_Open
+ .text.R_SCIF_UART_BaudCalculate
+                0x0000000020022f18      0x1f0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020022f18                R_SCIF_UART_BaudCalculate
+ .text.scif_uart_txi_isr
+                0x0000000020023108      0x100 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020023108                scif_uart_txi_isr
+ .text.scif_uart_rxi_isr
+                0x0000000020023208       0x50 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020023208                scif_uart_rxi_isr
+ .text.scif_uart_tei_isr
+                0x0000000020023258       0xa0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020023258                scif_uart_tei_isr
+ .text.scif_uart_eri_isr
+                0x00000000200232f8       0x38 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x00000000200232f8                scif_uart_eri_isr
+ .text.scif_uart_bri_isr
+                0x0000000020023330       0x88 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                0x0000000020023330                scif_uart_bri_isr
+ .text.R_MMU_WriteTable
+                0x00000000200233b8       0xac ./rza/fsp/src/r_mmu/r_mmu.o
+                0x00000000200233b8                R_MMU_WriteTable
+ .text.mmu_table_write_64
+                0x0000000020023464        0x8 ./rza/fsp/src/r_mmu/r_mmu.o
+ .text.R_MMU_WriteTableLink
+                0x000000002002346c       0x54 ./rza/fsp/src/r_mmu/r_mmu.o
+                0x000000002002346c                R_MMU_WriteTableLink
+ .text.R_MMU_WriteTableFault
+                0x00000000200234c0       0x98 ./rza/fsp/src/r_mmu/r_mmu.o
+                0x00000000200234c0                R_MMU_WriteTableFault
+ .text.R_MMU_Open
+                0x0000000020023558      0x1d8 ./rza/fsp/src/r_mmu/r_mmu.o
+                0x0000000020023558                R_MMU_Open
+ .text.r_ioport_make_port_pin_num
+                0x0000000020023730       0x10 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_regwrite_8
+                0x0000000020023740       0x38 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_regwrite_16
+                0x0000000020023778       0x3c ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_regwrite_32
+                0x00000000200237b4       0x20 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_dedicated_port_cfg
+                0x00000000200237d4      0x144 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_peri_mode_pin_config
+                0x0000000020023918      0x1bc ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_port_mode_pin_config
+                0x0000000020023ad4      0x1e4 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_pfs_write
+                0x0000000020023cb8       0x30 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.r_ioport_pins_config
+                0x0000000020023ce8      0x108 ./rza/fsp/src/r_ioport/r_ioport.o
+ .text.R_IOPORT_Open
+                0x0000000020023df0       0x30 ./rza/fsp/src/r_ioport/r_ioport.o
+                0x0000000020023df0                R_IOPORT_Open
+ .text.bsp_clock_off
+                0x0000000020023e20      0x458 ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+                0x0000000020023e20                bsp_clock_off
+ .text.SystemCoreClockUpdate
+                0x0000000020024278       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x0000000020024278                SystemCoreClockUpdate
+ .text.bsp_clock_freq_var_init
+                0x00000000200242a8       0xb0 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x00000000200242a8                bsp_clock_freq_var_init
+ .text.bsp_clock_init
+                0x0000000020024358      0x16c ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x0000000020024358                bsp_clock_init
+ *fill*         0x00000000200244c4        0x4 
+ .text.R_FSP_SystemClockHzGet
+                0x00000000200244c8       0x18 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+                0x00000000200244c8                R_FSP_SystemClockHzGet
+ .text.bsp_init_internal
+                0x00000000200244e0        0x4 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+                0x00000000200244e0                bsp_init
+                0x00000000200244e0                bsp_init_internal
+ .text.__assert_func
+                0x00000000200244e4        0x8 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+                0x00000000200244e4                __assert_func
+ .text.r_bsp_gic_io_regwrite_32
+                0x00000000200244ec       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.r_bsp_gic_io_regread_32
+                0x000000002002450c       0x18 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .text.R_BSP_GICD_SetCtlr
+                0x0000000020024524       0x24 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024524                R_BSP_GICD_SetCtlr
+ .text.R_BSP_GICD_GetCtlr
+                0x0000000020024548       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024548                R_BSP_GICD_GetCtlr
+ .text.R_BSP_GICD_Enable
+                0x0000000020024568       0x2c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024568                R_BSP_GICD_Enable
+ .text.R_BSP_GICD_AffinityRouteEnable
+                0x0000000020024594       0x18 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024594                R_BSP_GICD_AffinityRouteEnable
+ .text.R_BSP_GICD_SpiEnable
+                0x00000000200245ac       0x1c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200245ac                R_BSP_GICD_SpiEnable
+ .text.R_BSP_GICD_SpiDisable
+                0x00000000200245c8       0x1c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200245c8                R_BSP_GICD_SpiDisable
+ .text.R_BSP_GICD_SetSpiPriority
+                0x00000000200245e4       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200245e4                R_BSP_GICD_SetSpiPriority
+ .text.R_BSP_GICD_SetSpiRoute
+                0x0000000020024614       0x38 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024614                R_BSP_GICD_SetSpiRoute
+ .text.R_BSP_GICD_SetSpiSense
+                0x000000002002464c       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x000000002002464c                R_BSP_GICD_SetSpiSense
+ .text.R_BSP_GICD_ClearSpiPending
+                0x000000002002467c       0x1c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x000000002002467c                R_BSP_GICD_ClearSpiPending
+ .text.R_BSP_GICD_SetSpiSecurity
+                0x0000000020024698       0x70 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024698                R_BSP_GICD_SetSpiSecurity
+ .text.R_BSP_GICD_SetSpiSecurityLine
+                0x0000000020024708       0x58 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024708                R_BSP_GICD_SetSpiSecurityLine
+ .text.R_BSP_GICD_SetSpiSecurityAll
+                0x0000000020024760       0x5c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024760                R_BSP_GICD_SetSpiSecurityAll
+ .text.R_BSP_GICD_SetSpiClass
+                0x00000000200247bc       0x50 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200247bc                R_BSP_GICD_SetSpiClass
+ .text.R_BSP_GICR_Enable
+                0x000000002002480c       0x58 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x000000002002480c                R_BSP_GICR_Enable
+ .text.R_BSP_GICR_ClearSgiPpiPending
+                0x0000000020024864       0x18 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024864                R_BSP_GICR_ClearSgiPpiPending
+ .text.R_BSP_GICR_SetSgiPpiSecurityLine
+                0x000000002002487c       0x4c ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x000000002002487c                R_BSP_GICR_SetSgiPpiSecurityLine
+ .text.R_BSP_GICR_SetClass
+                0x00000000200248c8       0x28 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200248c8                R_BSP_GICR_SetClass
+ .text.R_BSP_GICR_GetRoute
+                0x00000000200248f0       0x10 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x00000000200248f0                R_BSP_GICR_GetRoute
+ .text.R_BSP_GICC_SetMaskLevel
+                0x0000000020024900       0x10 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024900                R_BSP_GICC_SetMaskLevel
+ .text.R_BSP_GICC_GetMaskLevel
+                0x0000000020024910       0x10 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024910                R_BSP_GICC_GetMaskLevel
+ .text.R_BSP_GICC_SetEoiGrp0
+                0x0000000020024920       0x10 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024920                R_BSP_GICC_SetEoiGrp0
+ .text.R_BSP_GICC_SetEoiGrp1
+                0x0000000020024930       0x10 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024930                R_BSP_GICC_SetEoiGrp1
+ .text.R_BSP_GICC_Get_IntIdGrp0
+                0x0000000020024940        0xc ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x0000000020024940                R_BSP_GICC_Get_IntIdGrp0
+ .text.R_BSP_GICC_Get_IntIdGrp1
+                0x000000002002494c        0xc ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                0x000000002002494c                R_BSP_GICC_Get_IntIdGrp1
+ .text.bsp_irq_cfg
+                0x0000000020024958       0x60 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x0000000020024958                bsp_irq_cfg
+ .text.IRQ_ExecuteHandler
+                0x00000000200249b8       0x50 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x00000000200249b8                IRQ_ExecuteHandler
+ .text.FIQ_ExecuteHandler
+                0x0000000020024a08       0xa8 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x0000000020024a08                FIQ_ExecuteHandler
+ .text          0x0000000020024ab0      0x350 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+                0x0000000020024ab0                R_BSP_CACHE_EnableInst
+                0x0000000020024ac4                R_BSP_CACHE_EnableData
+                0x0000000020024ad8                R_BSP_CACHE_DisableInst
+                0x0000000020024aec                R_BSP_CACHE_DisableData
+                0x0000000020024b00                R_BSP_CACHE_CleanAll
+                0x0000000020024b94                R_BSP_CACHE_CleanInvalidateAll
+                0x0000000020024c28                R_BSP_CACHE_InvalidateAll
+                0x0000000020024cbc                R_BSP_CACHE_CleanRange
+                0x0000000020024d1c                R_BSP_CACHE_InvalidateRange
+                0x0000000020024d7c                R_BSP_CACHE_CleanInvalidateRange
+ .text.Default_Handler
+                0x0000000020024e00        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+                0x0000000020024e00                Default_Handler
+ .text.__enable_fiq
+                0x0000000020024e08        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+                0x0000000020024e08                __enable_fiq
+ .text.__enable_all_exception
+                0x0000000020024e10        0x8 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+                0x0000000020024e10                __enable_all_exception
+ .text.InitGicv3
+                0x0000000020024e18       0x6c ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+                0x0000000020024e18                InitGicv3
+ .text          0x0000000020024e84       0x10 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+                0x0000000020024e84                R_MMU_GetTranslationTableBaseAddress
+                0x0000000020024e8c                R_MMU_SetTranslationTableBaseAddress
+ *fill*         0x0000000020024e94        0x4 
+ .text.SystemInit
+                0x0000000020024e98       0x98 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x0000000020024e98                SystemInit
+ .text.R_BSP_HardwareInit
+                0x0000000020024f30        0x4 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x0000000020024f30                R_BSP_HardwareInit
+ *fill*         0x0000000020024f34        0xc 
+ .text          0x0000000020024f40      0x1dc /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memset.o)
+                0x0000000020024f40                memset
+ *fill*         0x000000002002511c        0x4 
+ .text.stub     0x0000000020025120       0x18 linker stubs
+ *(.rodata .rodata.*)
+ *fill*         0x0000000020025140        0x0 
+ .rodata.cst8   0x0000000020025140       0x20 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .rodata._ZN24SerialCompatibilityLayer9fill_buffEv.str1.8
+                0x0000000020025160       0x55 ./src/hal_entry.o
+ *fill*         0x00000000200251b5        0x3 
+ .rodata._ZN24SerialCompatibilityLayer10uart_printEPht.str1.8
+                0x00000000200251b8       0x5b ./src/hal_entry.o
+ *fill*         0x0000000020025213        0x5 
+ .rodata._ZN24SerialCompatibilityLayer9uart_initEPj.str1.8
+                0x0000000020025218       0x4b ./src/hal_entry.o
+ *fill*         0x0000000020025263        0x5 
+ .rodata._ZN24SerialCompatibilityLayer7printlnEPh.str1.8
+                0x0000000020025268        0x2 ./src/hal_entry.o
+ *fill*         0x000000002002526a        0x6 
+ .rodata.hal_entry.str1.8
+                0x0000000020025270       0x1d ./src/hal_entry.o
+ *fill*         0x000000002002528d        0x3 
+ .rodata.g_mmu_pagetable_array
+                0x0000000020025290      0x120 ./src/mmu_page_table.o
+                0x0000000020025290                g_mmu_pagetable_array
+ .rodata.g_ioport_cfg_extend
+                0x00000000200253b0       0x18 ./rza_gen/common_data.o
+                0x00000000200253b0                g_ioport_cfg_extend
+ .rodata.g_mmu_cfg
+                0x00000000200253c8        0x8 ./rza_gen/common_data.o
+                0x00000000200253c8                g_mmu_cfg
+ .rodata.g_uart0_cfg
+                0x00000000200253d0       0x58 ./rza_gen/hal_data.o
+                0x00000000200253d0                g_uart0_cfg
+ .rodata.g_uart0_cfg_extend
+                0x0000000020025428       0x38 ./rza_gen/hal_data.o
+                0x0000000020025428                g_uart0_cfg_extend
+ .rodata.g_bsp_pin_cfg
+                0x0000000020025460       0x18 ./rza_gen/pin_data.o
+                0x0000000020025460                g_bsp_pin_cfg
+ .rodata.g_bsp_pin_cfg_data
+                0x0000000020025478       0x60 ./rza_gen/pin_data.o
+                0x0000000020025478                g_bsp_pin_cfg_data
+ .rodata.g_async_baud
+                0x00000000200254d8        0x9 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ *fill*         0x00000000200254e1        0x7 
+ .rodata.g_div_coefficient
+                0x00000000200254e8       0x12 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ *(.gcc_except_table .gcc_except_table.*)
+                0x0000000020025500                . = ALIGN (0x8)
+ *fill*         0x00000000200254fa        0x6 
+                0x0000000020025500                __freertos_plus_tcp_array_start = .
+ *(.freertos_plus_tcp_data .freertos_plus_tcp_data.*)
+                0x0000000020025500                __freertos_plus_tcp_array_end = .
+                0x0000000020025500                . = ALIGN (0x8)
+                0x0000000020025500                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x0000000020025500                PROVIDE (__preinit_array_end = .)
+                0x0000000020025500                . = ALIGN (0x8)
+                0x0000000020025500                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000000020025500        0x8 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .init_array    0x0000000020025508        0x8 ./src/hal_entry.o
+                0x0000000020025510                PROVIDE (__init_array_end = .)
+                0x0000000020025510                . = ALIGN (0x8)
+                0x0000000020025510                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000020025510        0x8 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+                0x0000000020025518                PROVIDE (__fini_array_end = .)
+ *(.eh_frame_hdr)
+ *(.eh_frame*)
+ .eh_frame      0x0000000020025518        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .eh_frame      0x0000000020025518      0x520 ./src/hal_entry.o
+ .eh_frame      0x0000000020025a38        0x4 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtend.o
+
+.fini           0x0000000020025a3c       0x18
+ .fini          0x0000000020025a3c       0x18 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crti.o
+                0x0000000020025a3c                _fini
+
+.iplt           0x0000000020025a54        0x0
+ .iplt          0x0000000020025a54        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+
+.rela.dyn       0x0000000020025a58        0x0
+ .rela.iplt     0x0000000020025a58        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .rela.rodata.cst8
+                0x0000000020025a58        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .rela.rodata.BTBL
+                0x0000000020025a58        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .rela.rodata.DTBL
+                0x0000000020025a58        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .rela.rodata.DTBL_F
+                0x0000000020025a58        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .rela.text.R_MMU_Open
+                0x0000000020025a58        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .relaRESET_HANDLER
+                0x0000000020025a58        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .rela.text.SystemInit
+                0x0000000020025a58        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x0000000020025a54        0x0
+                0x0000000020025a54                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000000020025a54                __exidx_end = .
+
+.data           0x00000000401fffe0     0x1858 load address 0x0000000020025a60
+                0x00000000401fffe0                __data_exec_start = .
+                0x0000000020025a60                __data_load_start = (LOADADDR (.data) + (. - ADDR (.data)))
+ *(.data .data.*)
+ .data.g_uart0_baud_setting
+                0x00000000401fffe0        0x3 ./rza_gen/hal_data.o
+                0x00000000401fffe0                g_uart0_baud_setting
+ *fill*         0x00000000401fffe3        0x5 
+ .data.g_int_sense_array
+                0x00000000401fffe8      0x800 ./rza/fsp/src/bsp/mcu/rza3m/bsp_irq_sense.o
+                0x00000000401fffe8                g_int_sense_array
+ .data.g_clock_freq
+                0x00000000402007e8       0x50 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ *(.application_vectors)
+ .application_vectors
+                0x0000000040200838     0x1000 ./rza_gen/vector_data.o
+                0x0000000040200838                g_vector_table
+                0x0000000040201838                . = ALIGN (0x8)
+                0x00000000200272b8                __data_load_end = (LOADADDR (.data) + (. - ADDR (.data)))
+
+.tm_clone_table
+                0x0000000040201838        0x0 load address 0x00000000200272b8
+ .tm_clone_table
+                0x0000000040201838        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .tm_clone_table
+                0x0000000040201838        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtend.o
+
+.igot.plt       0x0000000040201838        0x0 load address 0x00000000200272b8
+ .igot.plt      0x0000000040201838        0x0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+
+.bss            0x0000000040201840        0x0 load address 0x00000000200272c0
+                0x0000000040201840                __bss_start = .
+                0x0000000040201840                . = ALIGN (0x8)
+                0x0000000040201840                __bss_end = .
+
+.stack          0x0000000040201840     0x2000 load address 0x00000000200272c0
+                0x0000000040201840                __stack_start = .
+ *(.stack)
+ .stack         0x0000000040201840     0x2000 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x0000000040203840                __StackTop = .
+                0x0000000040203840                . = ALIGN (0x10)
+                0x0000000040203840                __stack_end = .
+
+.bss2           0x0000000040203840     0x1b18 load address 0x00000000200272c0
+                0x0000000040203840                __bss2_start = .
+ *(.bss .bss.*)
+ .bss.completed.1
+                0x0000000040203840        0x1 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ *fill*         0x0000000040203841        0x7 
+ .bss.object.0  0x0000000040203848       0x30 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+ .bss.Serial    0x0000000040203878      0x406 ./src/hal_entry.o
+                0x0000000040203878                Serial
+ *fill*         0x0000000040203c7e        0x2 
+ .bss.Serial1   0x0000000040203c80      0x406 ./src/hal_entry.o
+                0x0000000040203c80                Serial1
+ .bss._ZL14g_uart_event_0
+                0x0000000040204086        0x1 ./src/hal_entry.o
+ *fill*         0x0000000040204087        0x1 
+ .bss._ZL20g_receive_complete_0
+                0x0000000040204088        0x4 ./src/hal_entry.o
+ .bss._ZL21g_out_of_band_index_0
+                0x000000004020408c        0x2 ./src/hal_entry.o
+ *fill*         0x000000004020408e        0x2 
+ .bss._ZL21g_transfer_complete_0
+                0x0000000040204090        0x4 ./src/hal_entry.o
+ *fill*         0x0000000040204094        0x4 
+ .bss.g_out_of_band_received_0
+                0x0000000040204098      0x200 ./src/hal_entry.o
+                0x0000000040204098                g_out_of_band_received_0
+ .bss.g_ioport_ctrl
+                0x0000000040204298       0x18 ./rza_gen/common_data.o
+                0x0000000040204298                g_ioport_ctrl
+ .bss.g_mmu_ctrl
+                0x00000000402042b0       0x10 ./rza_gen/common_data.o
+                0x00000000402042b0                g_mmu_ctrl
+ .bss.g_port_group_input_cfg
+                0x00000000402042c0       0x10 ./rza_gen/common_data.o
+                0x00000000402042c0                g_port_group_input_cfg
+ .bss.g_port_group_output_cfg
+                0x00000000402042d0        0x8 ./rza_gen/common_data.o
+                0x00000000402042d0                g_port_group_output_cfg
+ .bss.g_single_port_cfg
+                0x00000000402042d8       0x14 ./rza_gen/common_data.o
+                0x00000000402042d8                g_single_port_cfg
+ *fill*         0x00000000402042ec        0x4 
+ .bss.g_uart0_ctrl
+                0x00000000402042f0       0x58 ./rza_gen/hal_data.o
+                0x00000000402042f0                g_uart0_ctrl
+ .bss.g_protect_pfswe_counter
+                0x0000000040204348        0x4 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+                0x0000000040204348                g_protect_pfswe_counter
+ .bss.g_interrupt_nesting_count
+                0x000000004020434c        0x4 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x000000004020434c                g_interrupt_nesting_count
+ .bss.gp_renesas_isr_context
+                0x0000000040204350     0x1000 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+                0x0000000040204350                gp_renesas_isr_context
+ .bss.route     0x0000000040205350        0x4 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .bss.SystemCoreClock
+                0x0000000040205354        0x4 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x0000000040205354                SystemCoreClock
+ *(COMMON)
+                0x0000000040205358                . = ALIGN (0x8)
+                0x0000000040205358                __bss2_end = .
+
+.heap           0x0000000040205360     0x2000 load address 0x00000000200272c0
+                0x0000000040205360                end = .
+                0x0000000040205360                __HeapBase = .
+ *(.heap)
+ .heap          0x0000000040205360     0x2000 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                0x0000000040207360                __HeapLimit = .
+                0x0000000040207360                _cached_end = .
+
+.bss.uncached_RAM
+                0x0000000080000020   0x207340
+                0x0000000080207360                . = (UNCACHEDRAM_S_START + (_cached_end - DDR_START))
+ *fill*         0x0000000080000020   0x207340 
+                0x0000000080207360                __uncached_RAM_start = .
+ *(UNCACHED_BSS)
+                0x0000000080207360                . = ALIGN (0x8)
+                0x0000000080207360                __uncached_RAM_end = .
+
+.uncached_RAM_USB
+                0x0000000080207360        0x0
+                0x0000000080207360                __uncached_RAM_USB_start = .
+ *(.uncached_RAM_USB*)
+                0x0000000080207360                __uncached_RAM_USB_end = .
+                0x0000000080207360                __top_of_ram = .
+OUTPUT(RZA3M_Feather_Blink.elf elf64-littleaarch64)
+LOAD linker stubs
+
+.comment        0x0000000000000000       0x5d
+ .comment       0x0000000000000000       0x5d /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtbegin.o
+                                         0x5e (size before relaxing)
+ .comment       0x000000000000005d       0x5e ./src/hal_entry.o
+ .comment       0x000000000000005d       0x5e ./src/mmu_page_table.o
+ .comment       0x000000000000005d       0x5e ./src/sections.o
+ .comment       0x000000000000005d       0x5e ./rza_gen/common_data.o
+ .comment       0x000000000000005d       0x5e ./rza_gen/hal_data.o
+ .comment       0x000000000000005d       0x5e ./rza_gen/main.o
+ .comment       0x000000000000005d       0x5e ./rza_gen/pin_data.o
+ .comment       0x000000000000005d       0x5e ./rza_gen/vector_data.o
+ .comment       0x000000000000005d       0x5e ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .comment       0x000000000000005d       0x5e ./rza/fsp/src/r_mmu/r_mmu.o
+ .comment       0x000000000000005d       0x5e ./rza/fsp/src/r_ioport/r_ioport.o
+ .comment       0x000000000000005d       0x5e ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+ .comment       0x000000000000005d       0x5e ./rza/fsp/src/bsp/mcu/rza3m/bsp_irq_sense.o
+ .comment       0x000000000000005d       0x5e ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .comment       0x000000000000005d       0x5e ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .comment       0x000000000000005d       0x5e ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .comment       0x000000000000005d       0x5e ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .comment       0x000000000000005d       0x5e ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .comment       0x000000000000005d       0x5e ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .comment       0x000000000000005d       0x5e ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .comment       0x000000000000005d       0x5e ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .comment       0x000000000000005d       0x5e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/crtend.o
+
+.debug_info     0x0000000000000000    0x89f17
+ .debug_info    0x0000000000000000    0x123e2 ./src/hal_entry.o
+ .debug_info    0x00000000000123e2      0x8f5 ./src/mmu_page_table.o
+ .debug_info    0x0000000000012cd7      0x25c ./src/sections.o
+ .debug_info    0x0000000000012f33     0x13ca ./rza_gen/common_data.o
+ .debug_info    0x00000000000142fd     0x26ee ./rza_gen/hal_data.o
+ .debug_info    0x00000000000169eb       0xb3 ./rza_gen/main.o
+ .debug_info    0x0000000000016a9e      0x76a ./rza_gen/pin_data.o
+ .debug_info    0x0000000000017208      0x728 ./rza_gen/vector_data.o
+ .debug_info    0x0000000000017930     0xa2e4 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_info    0x0000000000021c14      0xf94 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_info    0x0000000000022ba8    0x108f4 ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_info    0x000000000003349c     0x5f39 ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+ .debug_info    0x00000000000393d5       0xc1 ./rza/fsp/src/bsp/mcu/rza3m/bsp_irq_sense.o
+ .debug_info    0x0000000000039496     0x67aa ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_info    0x000000000003fc40      0x96b ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_info    0x00000000000405ab      0x1bc ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_info    0x0000000000040767    0x487a1 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_info    0x0000000000088f08       0xa7 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_info    0x0000000000088faf      0xa4e ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_info    0x00000000000899fd       0x2e ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .debug_info    0x0000000000089a2b       0x91 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_info    0x0000000000089abc       0x2e ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .debug_info    0x0000000000089aea       0x22 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .debug_info    0x0000000000089b0c       0x2e ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .debug_info    0x0000000000089b3a       0x2e ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .debug_info    0x0000000000089b68       0x2e ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .debug_info    0x0000000000089b96       0x2e ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_info    0x0000000000089bc4      0x2f7 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_info    0x0000000000089ebb       0x2e ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .debug_info    0x0000000000089ee9       0x2e /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memset.o)
+
+.debug_abbrev   0x0000000000000000     0x2c05
+ .debug_abbrev  0x0000000000000000      0x747 ./src/hal_entry.o
+ .debug_abbrev  0x0000000000000747      0x14c ./src/mmu_page_table.o
+ .debug_abbrev  0x0000000000000893       0xac ./src/sections.o
+ .debug_abbrev  0x000000000000093f      0x175 ./rza_gen/common_data.o
+ .debug_abbrev  0x0000000000000ab4      0x28c ./rza_gen/hal_data.o
+ .debug_abbrev  0x0000000000000d40       0x66 ./rza_gen/main.o
+ .debug_abbrev  0x0000000000000da6      0x12b ./rza_gen/pin_data.o
+ .debug_abbrev  0x0000000000000ed1       0xaa ./rza_gen/vector_data.o
+ .debug_abbrev  0x0000000000000f7b      0x5e1 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_abbrev  0x000000000000155c      0x257 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_abbrev  0x00000000000017b3      0x47b ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_abbrev  0x0000000000001c2e      0x1ea ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+ .debug_abbrev  0x0000000000001e18       0x85 ./rza/fsp/src/bsp/mcu/rza3m/bsp_irq_sense.o
+ .debug_abbrev  0x0000000000001e9d      0x310 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_abbrev  0x00000000000021ad      0x172 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_abbrev  0x000000000000231f       0xdc ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_abbrev  0x00000000000023fb      0x37f ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_abbrev  0x000000000000277a       0x5e ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_abbrev  0x00000000000027d8      0x1a8 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_abbrev  0x0000000000002980       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .debug_abbrev  0x0000000000002994       0x44 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_abbrev  0x00000000000029d8       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .debug_abbrev  0x00000000000029ec       0x12 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .debug_abbrev  0x00000000000029fe       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .debug_abbrev  0x0000000000002a12       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .debug_abbrev  0x0000000000002a26       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .debug_abbrev  0x0000000000002a3a       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_abbrev  0x0000000000002a4e      0x18f ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_abbrev  0x0000000000002bdd       0x14 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .debug_abbrev  0x0000000000002bf1       0x14 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memset.o)
+
+.debug_loc      0x0000000000000000     0xa07d
+ .debug_loc     0x0000000000000000     0x1b8e ./src/hal_entry.o
+ .debug_loc     0x0000000000001b8e      0x1b4 ./src/mmu_page_table.o
+ .debug_loc     0x0000000000001d42     0x2b3c ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_loc     0x000000000000487e      0x7d5 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_loc     0x0000000000005053     0x1cbd ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_loc     0x0000000000006d10      0x652 ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+ .debug_loc     0x0000000000007362      0xcbc ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_loc     0x000000000000801e       0x3d ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_loc     0x000000000000805b      0x2a2 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_loc     0x00000000000082fd     0x1bb2 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_loc     0x0000000000009eaf      0x193 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_loc     0x000000000000a042       0x3b ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_aranges  0x0000000000000000      0xec0
+ .debug_aranges
+                0x0000000000000000      0x280 ./src/hal_entry.o
+ .debug_aranges
+                0x0000000000000280       0x40 ./src/mmu_page_table.o
+ .debug_aranges
+                0x00000000000002c0       0x20 ./src/sections.o
+ .debug_aranges
+                0x00000000000002e0       0x30 ./rza_gen/common_data.o
+ .debug_aranges
+                0x0000000000000310       0x30 ./rza_gen/hal_data.o
+ .debug_aranges
+                0x0000000000000340       0x30 ./rza_gen/main.o
+ .debug_aranges
+                0x0000000000000370       0x20 ./rza_gen/pin_data.o
+ .debug_aranges
+                0x0000000000000390       0x20 ./rza_gen/vector_data.o
+ .debug_aranges
+                0x00000000000003b0      0x1b0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_aranges
+                0x0000000000000560       0x90 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_aranges
+                0x00000000000005f0      0x180 ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_aranges
+                0x0000000000000770       0x30 ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+ .debug_aranges
+                0x00000000000007a0       0x20 ./rza/fsp/src/bsp/mcu/rza3m/bsp_irq_sense.o
+ .debug_aranges
+                0x00000000000007c0       0xe0 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_aranges
+                0x00000000000008a0       0x50 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_aranges
+                0x00000000000008f0       0x30 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_aranges
+                0x0000000000000920      0x2a0 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_aranges
+                0x0000000000000bc0       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_aranges
+                0x0000000000000be0       0x50 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_aranges
+                0x0000000000000c30       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .debug_aranges
+                0x0000000000000c60       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_aranges
+                0x0000000000000c90       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .debug_aranges
+                0x0000000000000cc0       0x90 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .debug_aranges
+                0x0000000000000d50       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .debug_aranges
+                0x0000000000000d80       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .debug_aranges
+                0x0000000000000db0       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .debug_aranges
+                0x0000000000000de0       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_aranges
+                0x0000000000000e10       0x50 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_aranges
+                0x0000000000000e60       0x30 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .debug_aranges
+                0x0000000000000e90       0x30 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memset.o)
+
+.debug_ranges   0x0000000000000000     0x10d0
+ .debug_ranges  0x0000000000000000      0x270 ./src/hal_entry.o
+ .debug_ranges  0x0000000000000270       0x30 ./src/mmu_page_table.o
+ .debug_ranges  0x00000000000002a0       0x20 ./rza_gen/common_data.o
+ .debug_ranges  0x00000000000002c0       0x20 ./rza_gen/hal_data.o
+ .debug_ranges  0x00000000000002e0       0x20 ./rza_gen/main.o
+ .debug_ranges  0x0000000000000300      0x640 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_ranges  0x0000000000000940       0xb0 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_ranges  0x00000000000009f0      0x1a0 ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_ranges  0x0000000000000b90       0x20 ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+ .debug_ranges  0x0000000000000bb0      0x100 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_ranges  0x0000000000000cb0       0x40 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_ranges  0x0000000000000cf0       0x20 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_ranges  0x0000000000000d10      0x290 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_ranges  0x0000000000000fa0       0x40 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_ranges  0x0000000000000fe0       0x20 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_ranges  0x0000000000001000       0x90 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .debug_ranges  0x0000000000001090       0x40 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+
+.debug_line     0x0000000000000000     0x8405
+ .debug_line    0x0000000000000000     0x12f6 ./src/hal_entry.o
+ .debug_line    0x00000000000012f6      0x32e ./src/mmu_page_table.o
+ .debug_line    0x0000000000001624      0x18b ./src/sections.o
+ .debug_line    0x00000000000017af      0x3ea ./rza_gen/common_data.o
+ .debug_line    0x0000000000001b99      0x42e ./rza_gen/hal_data.o
+ .debug_line    0x0000000000001fc7       0x5b ./rza_gen/main.o
+ .debug_line    0x0000000000002022      0x2c9 ./rza_gen/pin_data.o
+ .debug_line    0x00000000000022eb      0x101 ./rza_gen/vector_data.o
+ .debug_line    0x00000000000023ec     0x17c3 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_line    0x0000000000003baf      0x662 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_line    0x0000000000004211      0xbc6 ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_line    0x0000000000004dd7      0x730 ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+ .debug_line    0x0000000000005507       0xc8 ./rza/fsp/src/bsp/mcu/rza3m/bsp_irq_sense.o
+ .debug_line    0x00000000000055cf      0xb97 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_line    0x0000000000006166      0x367 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_line    0x00000000000064cd      0x32c ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_line    0x00000000000067f9      0xae6 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_line    0x00000000000072df      0x208 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+ .debug_line    0x00000000000074e7      0x3e1 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_line    0x00000000000078c8      0x153 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .debug_line    0x0000000000007a1b       0x7d ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_line    0x0000000000007a98       0xaa ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+ .debug_line    0x0000000000007b42      0x101 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+ .debug_line    0x0000000000007c43       0xb5 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+ .debug_line    0x0000000000007cf8       0x6f ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .debug_line    0x0000000000007d67       0x74 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+ .debug_line    0x0000000000007ddb       0xa1 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+ .debug_line    0x0000000000007e7c      0x3e2 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+ .debug_line    0x000000000000825e       0x9b ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+ .debug_line    0x00000000000082f9      0x10c /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memset.o)
+
+.debug_str      0x0000000000000000    0x1eb70
+ .debug_str     0x0000000000000000     0x93c7 ./src/hal_entry.o
+                                       0x957f (size before relaxing)
+ .debug_str     0x00000000000093c7      0x162 ./src/mmu_page_table.o
+                                       0x1b81 (size before relaxing)
+ .debug_str     0x0000000000009529      0x157 ./src/sections.o
+                                        0x2f0 (size before relaxing)
+ .debug_str     0x0000000000009680      0x71d ./rza_gen/common_data.o
+                                       0x2aca (size before relaxing)
+ .debug_str     0x0000000000009d9d      0x832 ./rza_gen/hal_data.o
+                                       0x45c1 (size before relaxing)
+ .debug_str     0x000000000000a5cf       0x17 ./rza_gen/main.o
+                                        0x1a6 (size before relaxing)
+ .debug_str     0x000000000000a5e6      0x51f ./rza_gen/pin_data.o
+                                       0x11ed (size before relaxing)
+ .debug_str     0x000000000000ab05       0x35 ./rza_gen/vector_data.o
+                                       0x12bc (size before relaxing)
+ .debug_str     0x000000000000ab3a     0x2aba ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+                                       0x73d9 (size before relaxing)
+ .debug_str     0x000000000000d5f4      0x1ef ./rza/fsp/src/r_mmu/r_mmu.o
+                                       0x1e7c (size before relaxing)
+ .debug_str     0x000000000000d7e3      0x47c ./rza/fsp/src/r_ioport/r_ioport.o
+                                       0x7a14 (size before relaxing)
+ .debug_str     0x000000000000dc5f       0x3e ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+                                       0x23d7 (size before relaxing)
+ .debug_str     0x000000000000dc9d       0x2d ./rza/fsp/src/bsp/mcu/rza3m/bsp_irq_sense.o
+                                        0x206 (size before relaxing)
+ .debug_str     0x000000000000dcca      0x53b ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+                                       0x43bd (size before relaxing)
+ .debug_str     0x000000000000e205       0xfe ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+                                       0x1bf9 (size before relaxing)
+ .debug_str     0x000000000000e303       0x91 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+                                        0x2cc (size before relaxing)
+ .debug_str     0x000000000000e394    0x1031a ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+                                      0x10a8d (size before relaxing)
+ .debug_str     0x000000000001e6ae       0x24 ./rza/fsp/src/bsp/mcu/all/bsp_io.o
+                                        0x1d5 (size before relaxing)
+ .debug_str     0x000000000001e6d2       0xbe ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+                                       0x14eb (size before relaxing)
+ .debug_str     0x000000000001e790       0x47 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+                                         0x86 (size before relaxing)
+ .debug_str     0x000000000001e7d7       0x51 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+                                        0x1d6 (size before relaxing)
+ .debug_str     0x000000000001e828       0x3c ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/initsect.o
+                                         0x89 (size before relaxing)
+ .debug_str     0x000000000001e864       0x37 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irq.o
+                                         0x84 (size before relaxing)
+ .debug_str     0x000000000001e89b       0x42 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/irqfiq_handler.o
+                                         0x8f (size before relaxing)
+ .debug_str     0x000000000001e8dd       0x37 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+                                         0x84 (size before relaxing)
+ .debug_str     0x000000000001e914       0x41 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/program_entry.o
+                                         0x8e (size before relaxing)
+ .debug_str     0x000000000001e955       0x3b ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/startup.o
+                                         0x88 (size before relaxing)
+ .debug_str     0x000000000001e990       0xc0 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o
+                                        0x34d (size before relaxing)
+ .debug_str     0x000000000001ea50       0x40 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/vector_table.o
+                                         0x8d (size before relaxing)
+ .debug_str     0x000000000001ea90       0xe0 /home/alex/.local/share/renesas/e2_studio/toolchains/gcc_arm_aarch64/10_2021_07/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libg.a(lib_a-memset.o)
+                                         0xee (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x1360
+ .debug_frame   0x0000000000000000       0x40 ./src/mmu_page_table.o
+ .debug_frame   0x0000000000000040       0x28 ./rza_gen/common_data.o
+ .debug_frame   0x0000000000000068       0x38 ./rza_gen/hal_data.o
+ .debug_frame   0x00000000000000a0       0x38 ./rza_gen/main.o
+ .debug_frame   0x00000000000000d8      0x3e0 ./rza/fsp/src/r_scif_uart/r_scif_uart.o
+ .debug_frame   0x00000000000004b8      0x100 ./rza/fsp/src/r_mmu/r_mmu.o
+ .debug_frame   0x00000000000005b8      0x348 ./rza/fsp/src/r_ioport/r_ioport.o
+ .debug_frame   0x0000000000000900       0x40 ./rza/fsp/src/bsp/mcu/rza3m/bsp_clocks_setup.o
+ .debug_frame   0x0000000000000940      0x198 ./rza/fsp/src/bsp/mcu/all/bsp_clocks.o
+ .debug_frame   0x0000000000000ad8       0x58 ./rza/fsp/src/bsp/mcu/all/bsp_common.o
+ .debug_frame   0x0000000000000b30       0x38 ./rza/fsp/src/bsp/mcu/all/bsp_delay.o
+ .debug_frame   0x0000000000000b68      0x570 ./rza/fsp/src/bsp/mcu/all/bsp_gicv3.o
+ .debug_frame   0x00000000000010d8       0x98 ./rza/fsp/src/bsp/mcu/all/bsp_irq.o
+ .debug_frame   0x0000000000001170      0x118 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/cache.o
+ .debug_frame   0x0000000000001288       0x28 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/default_handler.o
+ .debug_frame   0x00000000000012b0       0x40 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/mmu.o
+ .debug_frame   0x00000000000012f0       0x70 ./rza/fsp/src/bsp/cmsis/Device/RENESAS/Source/system.o

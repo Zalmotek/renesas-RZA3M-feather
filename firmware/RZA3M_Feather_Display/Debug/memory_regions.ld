@@ -1,0 +1,8 @@
+/* generated memory regions file - do not edit */
+SRAM_START = 0x00010000;
+SRAM_LENGTH = 0x20000;
+FLASH_START = 0x20000000;
+FLASH_LENGTH = 0x10000000;
+DDR_START = 0x40000020;
+DDR_LENGTH = 0x7FFFFE0;
+

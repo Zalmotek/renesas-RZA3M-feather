@@ -1,0 +1,5 @@
+collapse/module.driver.display_on_lcdc.1793832057=false
+collapse/module.driver.i2c_on_iic_master.1904958345=true
+collapse/module.driver.mipi_dsi.1656372327=false
+collapse/module.driver.uart_on_scif_uart.1898617645=true
+eclipse.preferences.version=1
