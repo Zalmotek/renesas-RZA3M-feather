@@ -6,8 +6,6 @@ Here you'll find all the resources you need to get up and running quickly.
 
 ## 🪶 What is the RZ/A3M Feather SoM?
 
-The <a href="https://www.renesas.com/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra8m1-480mhz-arm-cortex-m85-based-microcontroller-helium-and-trustzone">Renesas RA8M1</a> allows you to achieve the full potential of a real-time operating system (RTOS) while leveraging the performance boost provided by the 64-bit Arm® Cortex®-M85 CPU core with a maximum operating frequency of 360 MHz.
-
 The <a href="https://www.renesas.com/en/products/rz-a3m">RZ/A3M</a> allows you to achieve the full potential of a real-time operating system (RTOS) while leveraging the performance boost provided by the 64-bit Arm® Cortex®-A55 CPU core with a maximum operating frequency of 1 GHz. It features MIPI DSI output for display control, 128 Mbit NOR Flash memory, and built-in 128MB DDR3L-SDRAM, all conveniently packaged in a compact format.
 
 Besides the processor, the Feather SoM contains the classic Feather features: digital GPIOs, I2C and SPI communication pins, UART pins, a LiPo battery power plug, and the USB programming port. The SoM also features a USB Type-C for powering the board and for USB debug upload.
